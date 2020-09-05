@@ -8,7 +8,7 @@ Converter_DCDC_Murata_NCS1SxxxxSC_THT:
   pins: [["thtr", "1", 0, 0, 1.70, 2.0, 1.0], ["thtr", "2", 2.54, 0, 1.70, 2.0, 1.0], ["thtr", "3", 5.12, 0, 1.70, 2.0, 1.0], ["thtr", "6", 12.7, 0, 1.70, 2.0, 1.0], ["thtr", "7", 15.24, 0, 1.70, 2.0, 1.0]]
 
 
-Converter_DCDC_Recom_RAC20-xxDK_THT:
+Converter_ACDC_Recom_RAC20-xxDK_THT:
   description: "Recom RAC20-xxDK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020"
   datasheet: "https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6"
   tags: "Recom RAC20-xxDK"
@@ -18,7 +18,7 @@ Converter_DCDC_Recom_RAC20-xxDK_THT:
   pins: [["thtr", "1", 0, 0, 1.8, 1.8, 1.2], ["thtr", "2", 0, -20.32, 1.8, 1.8, 1.2], ["thtr", "3", 45.72, -20.32, 1.8, 1.8, 1.2], ["thtr", "4", 45.72, -10.16, 1.8, 1.8, 1.2], ["thtr", "5", 45.72, 0, 1.8, 1.8, 1.2]]
 
 
-Converter_DCDC_Recom_RAC20-xxSK_THT:
+Converter_ACDC_Recom_RAC20-xxSK_THT:
   description: "Recom RAC20-xxSK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020"
   datasheet: "https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6"
   tags: "Recom RAC20-xxSK"
